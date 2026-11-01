@@ -17,4 +17,4 @@ If you would like to learn more about my work, please follow the ORCID and Schol
 
 I also try to keep my CV up to date on my website. It is very much a work in progress, but feel free to check it out:
 
-- Personal Website: [Website](adama-wzr.github.io)
+- Personal Website: [Website](https://adama-wzr.github.io)
