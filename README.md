@@ -1,5 +1,3 @@
-# Profile
-
 My primary research interests include:
 - Continuum-scale electrochemical modeling
 - Thermal-fluid sciences
